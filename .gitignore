@@ -1,0 +1,9 @@
+.env
+.vscode
+.idea
+.vim
+__pycache__
+.env*
+env
+json
+.json
